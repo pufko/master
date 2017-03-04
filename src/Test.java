@@ -16,7 +16,6 @@ public class Test {
         String price = orgp.get(0).attr("orgp");
         System.out.println(price);
        // System.out.println(orgp);
-//
         articleList.forEach(System.out::println);
 
     }
